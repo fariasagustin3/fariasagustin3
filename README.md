@@ -9,7 +9,7 @@
 
 
 <br />
-<div style="display: flex;">
+<div display = "flex" align="center">
   	<img style="width: 70px" src="https://user-images.githubusercontent.com/96506530/184717807-8686561d-a3b2-4832-a5ea-682d6a765b45.png" />
   	<img style="width: 70px" src="https://user-images.githubusercontent.com/96506530/184718526-cf69aeb6-e2d1-4bee-bd67-3e620a0b6577.png" />
   	<img style="width: 70px" src="https://user-images.githubusercontent.com/96506530/184718728-d2f9f990-c5f2-497d-b443-78502d1443c9.png" />
