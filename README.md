@@ -1,4 +1,7 @@
-### Hi there 👋
+### ¡Hola! Mi nombre es Agusttín Farias y soy Full Stack Developer. Te doy la bienvenida a mi perfil de GitHub.
+
+
+![github profile](https://user-images.githubusercontent.com/96506530/184713317-849459a9-3986-4fd2-8f73-49a201e97d5b.gif)
 
 <!--
 **fariasagustin3/fariasagustin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
