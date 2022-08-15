@@ -1,6 +1,6 @@
 ![github profile 2](https://user-images.githubusercontent.com/96506530/184713635-eeedb0ba-7af9-4d14-a5d0-ac42968f1374.gif)
 
-<div style="text-align: center;">	
+<div align= center>	
 		<h1>Hi! I'm Agustin Farias 👋</h1>
 		<p>I'm an Argentinian who loves simple things like playing with my dog, reading a book and coding just for fun. Currently I'm focused in Full Stack Web Development creating applications with technologies like ReactJS, NodeJS, PostgreSQL and MongoDB. I'm really passionate about coding beause I'm always learning about new technologies and learning about other developers. I'd pleased to show up to you my skills. Welcome!</p>
 </div>
