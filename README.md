@@ -1,6 +1,7 @@
 <h1 align="center">Hola, soy Agustin Farias</h1>
-
+<p align="center">
 ![portada-github](https://github.com/fariasagustin3/fariasagustin3/assets/96506530/f6c29a2a-e4e5-44c8-9052-03331312b393)
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-perfil-linkedin">
