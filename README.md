@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Agustin Farias</h1>
+<h1 align="center">Hello, I'm Agustin Farias 👋</h1>
 <p align="center">
   <img src="https://github.com/fariasagustin3/fariasagustin3/assets/96506530/f6c29a2a-e4e5-44c8-9052-03331312b393" />
 </p>
@@ -14,16 +14,16 @@
 
 ## Acerca de mí
 
-- 🌐 **Desarrollador web full stack orientado a React**
-- 🛠 **Backend con Node.js**
-- 🗄 **Bases de datos con MongoDB**
-- 💻 **Manejo de TypeScript y Angular**
-- 📱 **Aplicaciones móviles con React Native**
+- 🌐 **Full Stack Web Developer oriented to React**
+- 🛠 **Backend with Node.js**
+- 🗄 **Databases with MongoDB**
+- 💻 **Proficient in TypeScript and Angular**
+- 📱 **Mobile applications with React Native**
 
-## Descripción
+## Description
 
-Soy un desarrollador web full stack con más de dos años de experiencia, apasionado por la tecnología y la innovación. Mi experiencia incluye el desarrollo backend con Node.js, gestión de bases de datos con MongoDB, y la creación de aplicaciones web robustas utilizando TypeScript y Angular. Además, tengo habilidades en el desarrollo de aplicaciones móviles con React Native, lo que me permite ofrecer soluciones completas y de alta calidad.
+I am a full stack web developer with over two years of experience, passionate about technology and innovation. My expertise includes backend development with Node.js, database management with MongoDB, and building robust web applications using TypeScript and Angular. Additionally, I have skills in developing mobile applications with React Native, allowing me to offer comprehensive and high-quality solutions.
 
-Mi enfoque en el detalle y la eficiencia me permite mejorar la infraestructura tecnológica de una empresa, optimizando procesos y creando experiencias de usuario excepcionales. Estoy comprometido con el aprendizaje continuo y la adaptación a nuevas tecnologías, lo que me hace un valioso activo para cualquier equipo de desarrollo.
+My focus on detail and efficiency enables me to enhance a company's technological infrastructure, optimizing processes and creating exceptional user experiences. I am committed to continuous learning and adapting to new technologies, making me a valuable asset to any development team.
 
-Estoy entusiasmado por la oportunidad de contribuir a proyectos innovadores y ayudar a las empresas a alcanzar sus objetivos a través de mis habilidades técnicas y mi dedicación.
+I am excited about the opportunity to contribute to innovative projects and help companies achieve their goals through my technical skills and dedication.
